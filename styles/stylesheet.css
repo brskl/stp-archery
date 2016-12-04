@@ -8,3 +8,22 @@ header h1 {
   padding: 5px;
   vertical-align: middle;
 }
+
+figcaption {
+  text-align: center;
+}
+
+.HasFigure {
+  float: left;
+}
+
+.HasFigure:after {
+  content: "";
+  display: block;
+  clear: both;
+}
+
+.HasFigure figure {
+  float: right;
+  max-width: 40%;
+}
