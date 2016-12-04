@@ -1,7 +1,10 @@
-.logo {
+header h1 {
   display: inline;
+  vertical-align: middle;
 }
 
-h1 {
-  display: inline;
+.logo {
+  max-height: 2.5em;
+  padding: 5px;
+  vertical-align: middle;
 }
