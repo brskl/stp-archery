@@ -37,5 +37,12 @@ figcaption {
 
 .HasFigure figure {
   float: right;
+}
+
+.MaxW25 {
+  max-width: 25%;
+}
+
+.MaxW40 {
   max-width: 40%;
 }
