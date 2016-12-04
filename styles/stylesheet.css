@@ -1,10 +1,19 @@
+header {
+  background: #cccccc;
+}
+
 header h1 {
   display: inline;
   vertical-align: middle;
 }
 
+header nav {
+  font-size: 125%;
+  padding: 5px;
+}
+
 .logo {
-  max-height: 2.5em;
+  max-height: 3em;
   padding: 5px;
   vertical-align: middle;
 }
