@@ -68,7 +68,7 @@ footer {
 
 /* Every row is 90% as wide as it's parent, the <body> */
 div.row {
-  width: 90%;
+  width: 95%;
   margin: auto;
 }
 
