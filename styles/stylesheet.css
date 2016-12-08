@@ -84,8 +84,6 @@ div.row:after {
       beginning with 'col_' */
 div[class^='col_']  {
   float: left;
-  background-color: #99FFCC;
-  border: 1px solid black;
   padding: 1rem;
 }
 
